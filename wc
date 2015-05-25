@@ -1,0 +1,1 @@
+Word Count. Used wc 'filename', can use switches: -l - line count; -c - byte count; -m - character count; -l print length of longest line; -w - word count
