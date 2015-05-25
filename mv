@@ -1,0 +1,1 @@
+Move a file or directory from one place to another. Alternatively can be used to rename a file if moving within the same directory, eg mv file newfile
