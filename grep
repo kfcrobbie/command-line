@@ -1,0 +1,2 @@
+Used to search data for lines matching an expression ("Globally search a Regular Expression and Print"). eg grep word wordlist.txt
+Can also search all files of a certain type, eg grep word *.txt, or first letter- grep ^a wordlist.txt
